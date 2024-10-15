@@ -1,0 +1,4 @@
+colorsDirections
+Xaman
+norte
+north

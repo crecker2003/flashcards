@@ -1,0 +1,4 @@
+colorsDirections
+Boox
+negro
+black
